@@ -46,6 +46,3 @@ Welcome to our Image Classifier repository! This project provides a complete sol
    We're dedicated to improving this repository. Stay tuned for more CNN architectures and updates to the training and inference functionalities!
 
 ## Happy Classifying! 🚀🔍📸
-   We're dedicated to improving this repository. Stay tuned for more CNN architectures and updates to the training and inference functionalities!
-
-
