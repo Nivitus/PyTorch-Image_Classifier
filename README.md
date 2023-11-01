@@ -26,3 +26,21 @@ Welcome to our Image Classifier repository! This project provides a complete sol
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Nivitus/PyTorch_Image_Classifier.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Train the Model**:
+   ```bash
+   python train.py --source path/path_of_the_dataset --dest path/where_you_wanna_save
+   ```
+4. **Make Predictions**:
+   ```bash
+   python infer.py --video_path /path/source_video.mp4 --output_filename /path/output_video.mp4 --model_path path/model_weights.pth
+   ```
+   
+
+
+
+
